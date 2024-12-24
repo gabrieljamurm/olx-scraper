@@ -10,6 +10,7 @@ import time  # Para gerenciar intervalos e cronômetro
 import requests  # Para enviar notificações via Telegram
 import sys  # Para permitir saída controlada
 import json  # Para manipular JSON extraído do HTML
+import chromedriver_autoinstaller
 from urllib.parse import urlparse  # Para validar URLs
 
 # Credenciais do Telegram
