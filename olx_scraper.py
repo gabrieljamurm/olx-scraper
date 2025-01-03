@@ -12,7 +12,6 @@ import sys  # Para permitir saída controlada
 import json  # Para manipular JSON extraído do HTML
 from urllib.parse import urlparse  # Para validar URLs
 import traceback  # Para capturar e exibir erros no terminal
-import chromedriver_autoinstaller
 
 # Credenciais do Telegram
 TELEGRAM_TOKEN = "7600843587:AAED5vim3LYA09022gpS6cmXrxFIiccGa-Y"
